@@ -1,1 +1,1 @@
-
+This PHP-based Bus Reservation System offers a comprehensive solution for managing bus bookings, catering to both regular users and administrators. Through a menu-driven interface, users can perform tasks such as booking tickets, canceling reservations, checking bus statuses, and viewing schedules. Administrators have additional functionalities like adding, editing, and deleting buses, along with managing booked tickets. With its structured design and user-friendly features, the system ensures efficient management of bus reservations, enhancing the overall user experience.
